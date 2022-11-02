@@ -1,0 +1,14 @@
+numpy
+pandas
+azure-cognitiveservices-speech
+wordcloud
+seaborn
+matplotlib.pyplot
+regex
+sklearn.feature_extraction.text
+sklearn.model_selection
+sklearn.linear_model
+sklearn.metrics
+streamlit
+io
+streamlit.components.v1
