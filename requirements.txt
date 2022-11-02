@@ -8,5 +8,4 @@ pip
 regex
 sklearn
 streamlit
-io
 pydub
