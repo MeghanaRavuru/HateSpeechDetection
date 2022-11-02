@@ -4,6 +4,7 @@ azure-cognitiveservices-speech
 wordcloud
 seaborn
 matplotlib
+pip
 regex
 sklearn
 streamlit
