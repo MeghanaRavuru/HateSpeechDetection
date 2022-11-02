@@ -12,3 +12,4 @@ sklearn.metrics
 streamlit
 io
 streamlit.components.v1
+pydub
